@@ -32,4 +32,4 @@ client.user.setGame(`Type Splay  `,"https://www.twitch.tv/dggamingbot")
  
  
  
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NTIyODU3MDAxOTkxMTQzNDI4.DvZ95A.bqP1KN4YvnMC039aZBHmu0e6gZ4);
